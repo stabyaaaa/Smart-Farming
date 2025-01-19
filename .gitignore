@@ -1,0 +1,5 @@
+.conda/
+.data/
+.augment_image/
+.model/
+ignore.ipynb
